@@ -1,0 +1,44 @@
+.header {
+    text-align: left;
+    border-bottom: 1px solid darkblue;
+}
+
+.body {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    text-anchor: bottom;
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    margin: 10px;
+    text-align: left;
+    border: 2px;
+    border-color: darkblue;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+li {
+    list-style-type: square;
+    border: 1px darkblue;
+    padding: 2px;
+}
+
+button {
+    margin: 10px;
+    border: 2px solid blue;
+}
+
+h1,
+h2 {
+    text-indent: 10px;
+    text-align: left;
+    text-transform: uppercase;
+}
